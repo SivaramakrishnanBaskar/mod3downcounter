@@ -23,16 +23,17 @@ Program Input:
 ![Coding](https://user-images.githubusercontent.com/119476322/214327964-2bc389fe-b874-4a1c-99a3-85d746688bdd.png)
 
 Logic Diagram : 
-![md3Logic Diagram](https://user-images.githubusercontent.com/119476322/214325442-44f04312-ca15-411d-b340-83d5171c5243.png)
+![LG](https://user-images.githubusercontent.com/119476322/214329686-24ed537f-dbc1-41cd-81a5-dff3e3b5e6bf.png)
 
 Truth Table: 
-![Truthtab![md3Logic Diagram](https://user-images.githubusercontent.com/119476322/214327202-b053dcb4-9464-4660-951b-7c2e6a384868.png)
+![Truthtable](https://user-images.githubusercontent.com/119476322/214329912-49f2219d-8e99-4944-8f00-b4eefc07fec2.png)
+
 
 RTL Diagram: 
 ![md3Logic Diagram](https://user-images.githubusercontent.com/119476322/214327309-1be96f43-c968-44ab-8ec5-38854b351eb8.png)
 
 Timing Diagram: 
-![md3TimingDiagram](https://user-images.githubusercontent.com/119476322/214327397-c84c11fb-bf1a-41d1-99da-c9c5e24b1d5a.png)
+![md3TimingDiagram](https://user-images.githubusercontent.com/119476322/214330034-34fb1525-5921-4335-8c83-3b533ce29096.png)
 
 Result:
 
